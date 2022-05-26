@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1915" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/drawable/round_corner.xml" value="0.1915" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/drawable/splash_drawable.xml" value="0.1915" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/fragment_book.xml" value="0.1526268115942029" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/fragment_book_detail.xml" value="0.16485507246376813" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/progress_dialog.xml" value="0.16485507246376813" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/row_book.xml" value="0.16485507246376813" />
+        <entry key="..\:/Arrow Script/Projects/Kotlin MMVM/app/src/main/res/layout/toolbar_layout.xml" value="0.16485507246376813" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

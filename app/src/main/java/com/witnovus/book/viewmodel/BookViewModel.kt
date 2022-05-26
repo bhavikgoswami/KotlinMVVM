@@ -61,8 +61,6 @@ class BookViewModel @Inject constructor() : ViewModel() {
                     //Set shared preference value
                     Paper.book().write(Constants.IS_BOOK_FETCHED_FROM_API, true)
 
-                    //Start worker to sync book record with server and update database
-                    scheduleBookSyncWorker(applicationContext)
                 }
                 ) { error: Throwable ->
                     Log.e(TAG,
